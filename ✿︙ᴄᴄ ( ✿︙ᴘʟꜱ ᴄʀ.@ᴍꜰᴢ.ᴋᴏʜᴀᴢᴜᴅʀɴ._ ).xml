@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2021-05-28 04:35 PM
+3.6.2 (0504)
+ (25 Jan 2021 06.24.18)
+-->
+<scene title="✿︙ᴄᴄ ( ✿︙ᴘʟꜱ ᴄʀ.@ᴍꜰᴢ.ᴋᴏʜᴀᴢᴜᴅʀɴ._ )" width="1280" height="720" exportWidth="1280" exportHeight="720" bgcolor="#ff000000" totalTime="3015" fps="60" modifiedTime="1622194555342" amver="504" ffver="101" am="com.alightcreative.motion/3.6.2" amplatform="android">
+  <bookmark t="1008" />
+  <bookmark t="8" />
+  <bookmark t="2008" />
+  <bookmark t="3008" />
+  <bookmark t="4008" />
+  <bookmark t="5008" />
+  <bookmark t="6008" />
+  <bookmark t="7008" />
+  <bookmark t="8008" />
+  <bookmark t="9008" />
+  <bookmark t="10008" />
+  <shape id="272481" label="Screenshot_20210528-134552.jpeg" startTime="0" endTime="3015" fillType="media" fillImage="content://media/external/images/media/1135191" s=".rect">
+    <transform>
+      <location value="640.000000,360.000000" />
+    </transform>
+    <property name="size" type="vec2" value="640.000000,320.000000" />
+  </shape>
+  <shape id="185723" label="Rectangle 1" startTime="0" endTime="1015" fillType="color" blending="linear-dodge" s=".rect">
+    <transform>
+      <location value="640.000000,360.000000" />
+      <scale value="2.222174,1.249974" />
+      <opacity value="0.503906" />
+    </transform>
+    <fillColor value="#ffd4cffe" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.fastboxblur" locallyApplied="true">
+      <property name="strength" type="float" value="0.500000" />
+      <property name="iter" type="float" value="5.000000" />
+    </effect>
+    <property name="size" type="vec2" value="448.338806,448.338837" />
+  </shape>
+  <shape id="185724" label="Rectangle 2" startTime="0" endTime="1015" fillType="gradient" blending="divide" s=".rect">
+    <transform>
+      <location value="629.563110,353.163818" />
+      <scale value="2.461264,1.384461" />
+      <opacity value="0.750000" />
+    </transform>
+    <fillColor value="#ffa4405e" />
+    <gradient type="linear" startColor="#ffcbedfe" endColor="#ff000000" start="0.503764,0.507800" end="0.519644,1.643418" />
+    <property name="size" type="vec2" value="394.793365,394.793274" />
+  </shape>
+  <shape id="272477" label="Persegi panjang 1" startTime="0" endTime="1015" fillType="color" s=".rect">
+    <transform>
+      <location value="640.000000,360.000000" />
+      <scale value="8.294999,8.294999" />
+    </transform>
+    <fillColor value="#ffda4e95" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.spinblur2" locallyApplied="true">
+      <property name="angle" type="float" value="3.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.zoomblur3" locallyApplied="true">
+      <property name="strength" type="float" value="0.080000" />
+      <property name="adaptive" type="bool" value="true" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="41535" label="Persegi panjang 3" startTime="0" endTime="1015" fillType="color" blending="mask" s=".rect">
+    <transform lockAspectRatio="false">
+      <location value="640.000000,360.000000" />
+      <scale value="6.400000,3.135000" />
+    </transform>
+    <fillColor value="#ff4998c3" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272482" label="Persegi panjang 1" startTime="1000" endTime="2015" fillType="color" blending="linear-dodge" s=".rect">
+    <transform>
+      <location value="640.000000,360.000000" />
+      <scale value="6.400000,3.600001" />
+      <opacity value="0.500000" />
+    </transform>
+    <fillColor value="#ff788aae" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.boxblur3" locallyApplied="true">
+      <property name="strength" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272478" label="Persegi panjang 1" startTime="1000" endTime="2015" fillType="color" blending="multiply" s=".rect">
+    <transform>
+      <location value="640.000000,360.000000" />
+      <scale value="6.400000,3.600001" />
+      <opacity value="0.501953" />
+    </transform>
+    <fillColor value="#ff788aae" />
+    <effect id="com.alightcreative.effects.tile" locallyApplied="true">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="true">
+      <property name="strength" type="float" value="0.870000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272483" label="Persegi panjang 1" startTime="1000" endTime="2015" fillType="color" blending="divide" s=".rect">
+    <transform>
+      <location value="640.000000,360.000000" />
+      <scale value="6.400000,3.600001" />
+      <opacity value="0.757813" />
+    </transform>
+    <fillColor value="#ff788aae" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="41533" label="Persegi panjang 2" startTime="1000" endTime="2015" fillType="color" s=".rect">
+    <transform>
+      <location value="640.000000,360.000000" />
+      <scale value="6.400001,6.400001" />
+    </transform>
+    <fillColor value="#fff8e547" />
+    <gradient type="radial" startColor="#00000000" endColor="#ff000000" start="0.502544,0.498882" end="1.321815,1.039310" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.spinblur2" locallyApplied="true">
+      <property name="angle" type="float" value="3.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.zoomblur3" locallyApplied="true">
+      <property name="strength" type="float" value="0.060000" />
+      <property name="adaptive" type="bool" value="true" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272479" label="Persegi panjang 3" startTime="1000" endTime="2015" fillType="color" blending="mask" s=".rect">
+    <transform lockAspectRatio="false">
+      <location value="640.000000,360.000000" />
+      <scale value="6.400000,3.135000" />
+    </transform>
+    <fillColor value="#ff4998c3" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="41534" label="Persegi panjang 2" startTime="1000" endTime="2015" fillType="gradient" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000" />
+      <scale value="9.600000,9.600000" />
+    </transform>
+    <fillColor value="#fff8e547" />
+    <gradient type="radial" startColor="#00000000" endColor="#ff000000" start="0.502544,0.498882" end="1.321815,1.039310" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272484" label="Persegi panjang 4" startTime="1000" endTime="2015" fillType="gradient" blending="overlay" s=".rect">
+    <transform>
+      <location value="640.000000,360.000000" />
+      <scale value="6.409999,3.605625" />
+      <opacity value="0.501953" />
+    </transform>
+    <fillColor value="#ff53fa59" />
+    <gradient type="linear" startColor="#ff000000" endColor="#ffffffff" start="0.505633,1.633570" end="0.506380,-0.023140" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272486" label="Persegi panjang 5" startTime="2000" endTime="3015" fillType="color" blending="linear-dodge" s=".rect">
+    <transform>
+      <location value="641.000000,360.000000" />
+      <scale value="8.754999,4.924686" />
+      <opacity value="0.595703" />
+    </transform>
+    <fillColor value="#ffd3a2ad" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.findedges" locallyApplied="true">
+      <property name="smoothing" type="float" value="5.490000" />
+      <property name="threshold" type="float" value="1.000000" />
+      <property name="invert" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="true">
+      <property name="strength" type="float" value="0.495000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272487" label="Persegi panjang 5" startTime="2000" endTime="3015" fillType="color" blending="linear-dodge" s=".rect">
+    <transform>
+      <location value="641.000000,360.000000" />
+      <scale value="8.754999,4.924686" />
+      <opacity value="0.595703" />
+    </transform>
+    <fillColor value="#ffd3a2ad" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.findedges" locallyApplied="true">
+      <property name="smoothing" type="float" value="5.490000" />
+      <property name="threshold" type="float" value="1.000000" />
+      <property name="invert" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="true">
+      <property name="strength" type="float" value="0.495000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272488" label="Persegi panjang 5" startTime="2000" endTime="3015" fillType="color" blending="linear-dodge" s=".rect">
+    <transform>
+      <location value="641.000000,360.000000" />
+      <scale value="8.754999,4.924686" />
+      <opacity value="0.500000" />
+    </transform>
+    <fillColor value="#ffd3a2ad" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.colortune2" locallyApplied="true">
+      <property name="gamma" type="vec3" value="29.669796,0.481267,-0.219937" />
+      <property name="gain" type="vec3" value="0.000000,0.000000,-0.468425" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272489" label="Persegi panjang 1" startTime="2000" endTime="3015" fillType="color" s=".rect">
+    <transform>
+      <location value="640.000000,360.000000" />
+      <scale value="8.294999,8.294999" />
+    </transform>
+    <fillColor value="#ffda4e95" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.spinblur2" locallyApplied="true">
+      <property name="angle" type="float" value="3.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.zoomblur3" locallyApplied="true">
+      <property name="strength" type="float" value="0.080000" />
+      <property name="adaptive" type="bool" value="true" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272490" label="Persegi panjang 3" startTime="2000" endTime="3015" fillType="color" blending="mask" s=".rect">
+    <transform lockAspectRatio="false">
+      <location value="640.000000,360.000000" />
+      <scale value="6.400000,3.135000" />
+    </transform>
+    <fillColor value="#ff4998c3" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="272485" label="Screenshot_20210528-134552.jpeg" startTime="0" endTime="3015" fillType="media" fillImage="content://media/external/images/media/1135191" s=".rect">
+    <transform>
+      <location value="155.500046,77.286766" />
+      <scale value="0.242969,0.242969" />
+    </transform>
+    <property name="size" type="vec2" value="640.000000,320.000000" />
+  </shape>
+</scene>
